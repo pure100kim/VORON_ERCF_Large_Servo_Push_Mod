@@ -5,7 +5,7 @@ Please refer to my YouTube channel for how it works.
 https://www.youtube.com/watch?v=IlqO300Bplk&ab_channel=MrGoodman
 
 
-[![VORON_ERCF_LARGE_SERVO]()](https://www.youtube.com/watch?v=IlqO300Bplk&ab_channel=MrGoodman) 
+[![VORON_ERCF_LARGE_SERVO](https://github.com/pure100kim/VORON_ERCF_Large_Servo_Push_Mod/blob/main/Photos/VORON_Large_HI_torque_servo_mod.png)](https://www.youtube.com/watch?v=IlqO300Bplk&ab_channel=MrGoodman) 
 
 
 
