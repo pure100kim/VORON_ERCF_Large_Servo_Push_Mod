@@ -1,6 +1,11 @@
 I have replaced the mini servo with a larger servo that has stronger torque.
 
 
+![Image of VORON ERCF Large Hi torque Servo](https://github.com/pure100kim/VORON_ERCF_Large_Servo_Push_Mod/blob/main/Photos/VORON_Large_HI_torque_servo_mod.jpg)
+
+
+
+
 
 https://www.youtube.com/watch?v=IlqO300Bplk&ab_channel=MrGoodman
 
